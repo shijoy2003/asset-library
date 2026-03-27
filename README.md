@@ -39,6 +39,7 @@ Maintain a simple asset register and track temporary check-outs to prevent loss 
 - Prevent double checkout rule
 - Overdue items view
 - Analytics chart for utilization by asset type
+- A working Outlook used to generate the output which is msccs2425@rajagiri.edu
 
 ## Power Automate Flows
 1. **Asset Due Date Reminder** - Runs daily, sends email and Teams notification to assignee 24 hours before due date
