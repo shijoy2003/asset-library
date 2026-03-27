@@ -45,7 +45,7 @@ Maintain a simple asset register and track temporary check-outs to prevent loss 
 2. **Prevent Double Checkout** - Blocks checkout if asset is already checked out
 
 ## App Link
-[https://org4f82fe4e.crm.dynamics.com/main.aspx?appid=2418af17-ff27-f111-8341-6045bd0125a6](PASTE YOUR APP LINK HERE)
+[https://org4f82fe4e.crm.dynamics.com/main.aspx?appid=2418af17-ff27-f111-8341-6045bd0125a6]
 
 ## Screenshots
 See screenshots folder for app demo images.
